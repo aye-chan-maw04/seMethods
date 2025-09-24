@@ -8,3 +8,4 @@
 [![Releases](https://img.shields.io/github/release/aye-chan-maw04/seMethods/all.svg?style=flat-square)](https://github.com/aye-chan-maw04/seMethods/releases)
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/aye-chan-maw04/seMethods/main.yml?branch=develop&style=flat-square)
+
