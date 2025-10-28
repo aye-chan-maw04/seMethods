@@ -160,7 +160,7 @@ public class MySQL_Test {
             Employee emp = m.getEmployee(255530);
 
             // Print that employee
-            m.displayEmployee(emp);
+//            m.displayEmployee(emp);
 
             // Disconnect
             m.disconnect();
